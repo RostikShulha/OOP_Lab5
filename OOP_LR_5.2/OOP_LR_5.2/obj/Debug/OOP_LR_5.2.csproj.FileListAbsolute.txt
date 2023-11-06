@@ -1,0 +1,7 @@
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\obj\Debug\OOP_LR_5.2.csproj.AssemblyReference.cache
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\obj\Debug\OOP_LR_5.2.csproj.CoreCompileInputs.cache
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\bin\Debug\OOP_LR_5.2.exe.config
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\bin\Debug\OOP_LR_5.2.exe
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\bin\Debug\OOP_LR_5.2.pdb
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\obj\Debug\OOP_LR_5.2.exe
+D:\Універ\OOP_LR_5.2\OOP_LR_5.2\obj\Debug\OOP_LR_5.2.pdb

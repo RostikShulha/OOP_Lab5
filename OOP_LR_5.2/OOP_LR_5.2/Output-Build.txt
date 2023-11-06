@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: OOP_LR_5.2, Configuration: Debug Any CPU ------
+1>  OOP_LR_5.2 -> D:\Універ\OOP_LR_5.2\OOP_LR_5.2\bin\Debug\OOP_LR_5.2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:54 and took 00,134 seconds ==========
